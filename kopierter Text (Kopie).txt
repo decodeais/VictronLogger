@@ -1,0 +1,1 @@
+/home/jps/Dokumente/PlatformIO/Projects/New Loggert/.gitignore
